@@ -1,0 +1,36 @@
+/* Inserta tu codigo aqui */
+*{
+    outline: 1px dotted red;
+    font-family: 'Open Sans', sans-serif;
+    /* background-color: aquamarine; */
+    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.bg-color-esp{
+    background-color: #5E8039;
+}
+
+.bg-imagen-1{
+    /* background-image: url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png"); */
+    background-image: url("../img/fondo.jpg");
+}
+
+.bg-imagen-2{
+    /* background-image: url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png"); */
+    background-image: url("../img/fondo2.jpg");
+}
+
+.txt-color-esp{
+    color: #5E8039;
+}
+
+.bg-semilla{
+    /* background-image: url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png"); */
+    background-image: url("../img/semilla-2.jpg");
+    height: 650px;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
